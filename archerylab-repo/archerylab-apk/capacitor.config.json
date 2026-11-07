@@ -1,0 +1,8 @@
+{
+  "appId": "gr.archerylab.app",
+  "appName": "Archery Lab",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  }
+}
